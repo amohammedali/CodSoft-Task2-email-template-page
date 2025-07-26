@@ -15,11 +15,7 @@ To help businesses and brands send out marketing or promotional emails that are:
 - [Figma](https://figma.com) – Used for designing the entire template interface.
 
 ## 🎥 Demo
-https://github.com/YourUsername/YourRepoName/assets/your-asset-id/your-video.mp4  
-*(Replace with actual GitHub asset path or external video link if hosted elsewhere)*
-
-> 📁 File: [`WhatsApp Video 2025-07-25 at 18.19.51.mp4`](./WhatsApp%20Video%202025-07-25%20at%2018.19.51.mp4)
-
+https://github.com/amohammedali/CodSoft-Task2-email-template-page/blob/main/CodSoft%20Task2%20email%20templete-page.mp4
 
 ## 💡 Learning Highlights
 - Visual hierarchy and spacing
